@@ -1,0 +1,62 @@
+body {
+    background-color:#EAEAEA;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+hr {
+    border-style: dotted none none;
+    height: 0px;
+    width: 5%;
+    border-color: #00ADB5;
+    border-width: 5px;
+}
+h1 {
+    color: #393E46;
+    font-family: 'Righteous', sans-serif;
+}
+h2 {
+    color: #393E46;
+    font-family: 'Montserrat', sans-serif;
+}
+h3 {
+    color: #393E46;
+    font-family: 'Montserrat', sans-serif;
+
+}
+p{
+    color: #393E46;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 19px;
+}
+.introduction{
+    color: #00ADB5;
+}
+.contact-hr{
+    border-style: dotted none none;
+    height: 0px;
+    border-color: #00ADB5;
+    width: 10%;
+}
+.work-table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.skills-table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.btn{
+    font-size: 23px;
+}
+.hobbies{
+    padding: 30px;
+}
+.birthday-img{
+    height: 70%;
+    width: 70%;
+}
+.movies-img{
+    height: 70%;
+    width: 70%;
+}
